@@ -3,8 +3,8 @@ SpecFlow plugin for using SimpleInjector as a dependency injection framework for
 
 
 Currently supports
-* SpecFlow v3.1.80
-* SimpleInjector v4.9.0 or above
+* SpecFlow v3.4.8
+* SimpleInjector v5.0.3 or above
 
 License: Apache (https://github.com/jguc/SpecFlow.SimpleInjector/blob/master/LICENSE)
 
